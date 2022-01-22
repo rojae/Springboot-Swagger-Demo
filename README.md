@@ -1,5 +1,8 @@
-# Springboot-Template
-- Template project for sample development.
+# Springboot-Swagger-Demo
+- Springboot Swagger Demo
 
 ### Tech
-- SpringBoot, JPA, Querydsl, h2, lombok
+- SpringBoot, Swagger, JPA, Querydsl, h2, lombok
+
+### view
+![demo.png](demo.png)
